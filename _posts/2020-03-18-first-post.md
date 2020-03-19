@@ -1,12 +1,8 @@
 ---
-title: "gitblog시작하기"
-excerpt:" gitblog시작"
-
-categories:
--blog
-tags:
--blog
-last_modified_at: 
+layout: post
+title: 지킬(jekyll) 로 포스팅하기
+category: Dev
+tags: [blog, jekyll, github.io]
 ---
 
 깃블로그 참 어렵다
