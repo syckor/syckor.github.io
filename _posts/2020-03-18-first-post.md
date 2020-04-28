@@ -1,14 +1,4 @@
----
-<<<<<<< HEAD
-layout: post
-title: 지킬(jekyll) 로 포스팅하기
-category: Dev
-tags: [blog, jekyll, github.io]
-=======
-title: "gitblog시작하기"
-excerpt:" gitblog시작"
 
->>>>>>> 3115ccbba09beac6d4c2ea3cec672fe14e1060c8
 This is an H1
 =============
 
@@ -42,7 +32,6 @@ public class BootSpringBootApplication {
   public static void main(String[] args) {
     System.out.println("Hello, Honeymon");
   }
-
 }
 </code>
 </pre>
@@ -54,5 +43,4 @@ _single underscores_
 __double underscores__
 ~~cancelline~~
 
-![Alt text](../imgs/apeach_1.jpg "Apeach")
-<img src="../imgs/apeach_1.jpg" width="40%" height="30%"></img>
+![Alt text](./imgs/apeach_1.JPG "Apeach")
